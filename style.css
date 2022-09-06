@@ -79,7 +79,7 @@ main {
   display: flex;
   justify-content: center;
   margin: 0 auto;
-  padding: 70px 0; 
+  padding: 70px 0;
 }
 
 .blog {
@@ -144,7 +144,7 @@ main {
   background-color: #acabab;
   border-radius: 3px;
   line-height: 30px;
-}  
+}
 
 .sidebar {
   width: 230px;
@@ -225,4 +225,8 @@ footer {
 
 .footer-text {
   color: #fff;
+}
+
+@media screen and (max-width: 425px) {
+  
 }
